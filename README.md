@@ -1,0 +1,2 @@
+# obs-telescope_nanten
+
